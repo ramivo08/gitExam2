@@ -7,7 +7,7 @@ public class insert {
 
 		
 		//insert
-		//kim추가
+		//kim추가    
 		//insert 하하하
 		//insert 호호호
 		//insert 히히히
