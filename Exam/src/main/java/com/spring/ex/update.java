@@ -6,7 +6,10 @@ public class update {
 		// TODO Auto-generated method stub
 
 		
-		//Update ȣȣ
+		//Update 하하
+		//Update 가나다라
+		//Update 마바사
+		
 		
 	}
 
